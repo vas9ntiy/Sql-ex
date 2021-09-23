@@ -1,2 +1,2 @@
 Select * 
-from folder1
+from folder2
